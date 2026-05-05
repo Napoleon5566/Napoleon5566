@@ -18,8 +18,6 @@ CS student with a strong interest in artificial intelligence — particularly ma
 
 ![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-000?style=flat-square&logo=pytorch&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-000?style=flat-square&logo=nvidia&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=white)
