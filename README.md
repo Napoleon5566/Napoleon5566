@@ -23,3 +23,13 @@ CS student with a strong interest in artificial intelligence — particularly ma
 ![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=white)
 
 </div>
+
+---
+
+## Stats
+
+<div align="center">
+
+<img height="160" src="https://streak-stats.demolab.com?user=napoleon5566&theme=dark&hide_border=true&background=00000000&stroke=666&ring=fff&fire=fff&currStreakLabel=fff&sideLabels=999&dates=666" />
+
+</div>
