@@ -32,5 +32,4 @@ CS student with a strong interest in artificial intelligence — particularly ma
 
 <img height="160" src="https://streak-stats.demolab.com?user=napoleon5566&theme=dark&hide_border=true&background=00000000&stroke=666&ring=fff&fire=fff&currStreakLabel=fff&sideLabels=999&dates=666" />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=napoleon5566)](https://github.com/anuraghazra/github-readme-stats)
 </div>
