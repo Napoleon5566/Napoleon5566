@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Napoleon+%F0%9F%91%8B;Interested+in+Artificial+Intelligence;Always+building.+Always+learning.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Napoleon+%F0%9F%91%8B;Interested+in+Artificial+Intelligence)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,10 +24,4 @@ CS student with a strong interest in artificial intelligence — particularly ma
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=white)
 
-</div>
-
----
-
-<div align="center">
-<sub>Always building. Always learning.</sub>
 </div>
