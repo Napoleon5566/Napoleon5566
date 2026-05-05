@@ -8,13 +8,7 @@
 
 ## About
 
-I'm a CS student at **National Yunlin University of Science and Technology**, interested in the intersection of machine learning systems and low-level engineering.
-
-Currently focused on **LLM internals** — efficient attention mechanisms, custom CUDA/Triton kernels, and sub-quadratic sequence modeling architectures.
-
-- Building a hybrid **GLA + SWA** attention architecture (strictly sub-quadratic)
-- Previously trained a ~44M parameter GPT-2 from scratch on OpenWebText
-- Background in Python; learning Node.js / React / Next.js
+CS student interested in artificial intelligence — especially the systems and theory behind how models work.
 
 ---
 
